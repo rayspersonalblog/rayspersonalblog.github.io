@@ -2,38 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/posts/01-01-2025-hello-world/</loc>
+    <loc>//localhost:1313/tags/github/</loc>
+    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/01-06-2025-now-live/</loc>
+    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/song-of-the-week/</loc>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/01-05-2025-song-of-the-week/</loc>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/about/</loc>
     <lastmod>2025-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/01-05-2025-hacked-switch/</loc>
-    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/posts/01-01-2025-hello-world/</loc>
+    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/tags/updates/</loc>
+    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/gallery/2024/collection-2024/</loc>
+    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/gallery/</loc>
+    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/updates/</loc>
-    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/gallery/2020/graduation-2020/</loc>
+    <lastmod>2020-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/just-talking/</loc>
-    <lastmod>2025-01-04T03:21:00+00:00</lastmod>
+    <loc>//localhost:1313/blog/</loc>
   </url><url>
-    <loc>/posts/01-03-2025-testing/</loc>
-    <lastmod>2025-01-04T03:21:00+00:00</lastmod>
-  </url><url>
-    <loc>/gallery/</loc>
-    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/</loc>
-  </url><url>
-    <loc>/series/</loc>
+    <loc>//localhost:1313/series/</loc>
   </url>
 </urlset>

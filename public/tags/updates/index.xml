@@ -2,26 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Updates on Ray&#39;s Personal Blog</title>
-    <link>/tags/updates/</link>
+    <link>//localhost:1313/tags/updates/</link>
     <description>Recent content in Updates on Ray&#39;s Personal Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/updates/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/updates/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World (2025) &amp; Happy New Years</title>
-      <link>/posts/01-01-2025-hello-world/</link>
+      <link>//localhost:1313/posts/01-01-2025-hello-world/</link>
       <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>/posts/01-01-2025-hello-world/</guid>
-      <description>&lt;p&gt;Hello World and Happy New Years.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/2025/01-03/07292023.jpg&#34; alt=&#34;Me In Computer Class&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;im-the-middle-child-btw&#34;&gt;I&amp;rsquo;m the middle child. BTW&lt;/h2&gt;</description>
-    </item>
-    <item>
-      <title>My Hacked Switch</title>
-      <link>/posts/01-05-2025-hacked-switch/</link>
-      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>/posts/01-05-2025-hacked-switch/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;p&gt;Testing more photos and colored text.&#xA;&lt;img src=&#34;/2025/01-04/20210304_204854.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 style=&#34;color: Red&#34; id=&#34;heading&#34;&gt;Red&#xA;&lt;/h2&gt;&#xA;&lt;h2 style=&#34;color: Blue&#34; id=&#34;heading-1&#34;&gt;Blue&#xA;&lt;/h2&gt;</description>
+      <guid>//localhost:1313/posts/01-01-2025-hello-world/</guid>
+      <description>&lt;h2 id=&#34;hello-world-and-happy-new-years&#34;&gt;&amp;ldquo;Hello World&amp;rdquo; and Happy New Years.&lt;/h2&gt;&#xA;&lt;p&gt;Welcome to my blog where I can post whatever I want and share it with my friends and family. I will be updating the blog weekly with whatever come to my mind so I hope you enjoy. In the mean time check out my photo gallery until I get my first post ready.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/2025/07292023.jpg&#34; alt=&#34;Me In Computer Class&#34;&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;im-the-middle-child-btw&#34;&gt;I&amp;rsquo;m the middle child. BTW&lt;/h4&gt;</description>
     </item>
   </channel>
 </rss>

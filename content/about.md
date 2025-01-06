@@ -1,19 +1,32 @@
-+++
-title = "About"
-date = "2014-04-09"
-aliases = ["about-us","about-hugo","contact"]
-[ author ]
-  name = "About & Credits"
-+++
+---
+Owner: Ray S.
+date: 2025-01-03
+---
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+# About
+---
 
-Shout-Out to all the people below for making this website possible:
 
+
+Hello World!!! I'm Raymon and welcome to my personal corner of the internet. This blog is created using **HUGO** and deployed using **GitHub Pages**. 
+
+
+
+## Shout-Out to all the people below for making this website possible :
+
+---
+
+
+
+### Core Components
+*  **Theme**: https://github.com/rhazdon/hugo-theme-hello-friend-ng
+*  **Gallery**: https://github.com/mfg92/hugo-shortcode-gallery?tab=readme-ov-file
+
+---
+
+
+### Support
 * https://pranshugaba.com/dev/hugo-colour-shortcode/
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+* https://www.youtube.com/@NetworkChuck
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+

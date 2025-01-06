@@ -1,51 +1,30 @@
-baseURL = '/'
-languageCode = 'en-us'
-title = "Ray's Personal Blog"
-theme = "hello-friend-ng"
-pagination.pagerSize = 10
+baseurl      = "localhost"
+title        = "Ray's Personal Blog"
+languageCode = "en-us"
+theme        = "hello-friend-ng"
 
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
+  date    = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "Welcome To Ray's Personal Corner Of The Internet"
+  homeSubtitle = "Welcome to my personal corner of the Internet"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
 
   # Enable sharing buttons, if you like
-  enableSharingButtons = true
+  enableSharingButtons = false
   
   # Show a global language switcher in the navigation bar
   enableGlobalLanguageMenu = false
 
   # Metadata mostly used in document's head
   description = "My new homepage or blog"
-  keywords = "homepage, blog,"
+  keywords = "homepage, blog"
   images = [""]
-
-  [params.gallerydeluxe]
-        # Shuffle the images in the gallery to give the impression of a new gallery each time.
-        shuffle = false
-
-        # Reverse the order of the images in the gallery.
-        reverse = false
-
-         # Enable Exif data in the gallery.
-         # See https://gohugo.io/content-management/image-processing/#exif-data for how to filter tags.
-        enable_exif = false
-
-          # Optional watermark file for the large images.
-        [params.gallerydeluxe.watermark]
-            image = "images/gopher-hero8.png" # relative to /assets
-            posx  = "left"                    # one of "left", "center", "right"
-            posy  = "bottom"                  # one of "top", "center", "bottom"
-
-
-# Break
 
 [taxonomies]
     category = "blog"
@@ -76,10 +55,25 @@ pagination.pagerSize = 10
     name       = "Blog"
     url        = "/posts"
   [[menu.main]]
-    identifier = "about"
-    name       = "About"
-    url        = "about/"
-  [[menu.main]]
     identifier = "gallery"
     name       = "Gallery"
-    url        = "gallery/"
+    url        = "/gallery"
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about"
+
+[[params.socialIcons]]
+name = "Github"
+url = "https://github.com/raymonshields"
+
+[[params.socialIcons]]
+name = "email"
+url = "raymonshields1@gmail.com"
+
+[[params.socialIcons]]
+name = "Rss"
+url = "/index.xml"
+
+[[module.imports]]
+path = "github.com/mfg92/hugo-shortcode-gallery"
