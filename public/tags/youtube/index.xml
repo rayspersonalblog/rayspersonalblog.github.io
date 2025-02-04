@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>YouTube on Ray&#39;s Personal Blog</title>
+        <link>//localhost:1313/tags/youtube/</link>
+        <description>Recent content in YouTube on Ray&#39;s Personal Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Raymon Shields</copyright>
+        <lastBuildDate>Sat, 18 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/youtube/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>UPDATE Momodora Review</title>
+        <link>//localhost:1313/p/update-momodora-review/</link>
+        <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>//localhost:1313/p/update-momodora-review/</guid>
+        <description>&lt;img src="https://cdn2.steamgriddb.com/thumb/60d03ef62249c20b90b60c89d6e3cb55.jpg" alt="Featured image of post UPDATE Momodora Review" /&gt;&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/d7wYrI8MPNA&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&#34;it-has-begun&#34;&gt;It has begun
+&lt;/h1&gt;&lt;p&gt;For the past few days I been working on a script for a full on review of the Momodora Series but I wanted to make a post to give a little teaser for part one. Keep in mind everything shown here is a very rough draft and may change when I go back and touch up everything for my second revision. But along with drafting my script I&amp;rsquo;ve been playing each Momodora game so that their fresh in my mind and I&amp;rsquo;ve been learning how to use DaVinci Resolve since I wanted to move off Filmora.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

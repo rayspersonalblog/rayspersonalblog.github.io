@@ -1,20 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>GitHub on Ray&#39;s Personal Blog</title>
-    <link>//localhost:1313/tags/github/</link>
-    <description>Recent content in GitHub on Ray&#39;s Personal Blog</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/github/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>NOW LIVE!!!!</title>
-      <link>//localhost:1313/posts/01-06-2025-now-live/</link>
-      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/01-06-2025-now-live/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;The Website is officially deployed.&lt;/strong&gt; I have updated GitHub as of Jan 6 and the website should be no longer private. Now to pray that I don&amp;rsquo;t run into any issues while GitHub updates it.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/2025/Deployment.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;</description>
-    </item>
-  </channel>
+    <channel>
+        <title>GitHub on Ray&#39;s Personal Blog</title>
+        <link>//localhost:1313/tags/github/</link>
+        <description>Recent content in GitHub on Ray&#39;s Personal Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Raymon Shields</copyright>
+        <lastBuildDate>Mon, 03 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/github/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Website Changes?</title>
+        <link>//localhost:1313/p/website-changes/</link>
+        <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+        
+        <guid>//localhost:1313/p/website-changes/</guid>
+        <description>&lt;img src="//localhost:1313/2025/Deployment2.png" alt="Featured image of post Website Changes?" /&gt;&lt;p&gt; 
+ &lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve changed the web address of my website and for a few hours everything was down but it should be up now. rayspersonalblog.github.io is the new web address and I currently working on a new website design using &amp;ldquo;Stack&amp;rdquo; by Jimmy Cai.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        <item>
+        <title>NOW LIVE!!!!</title>
+        <link>//localhost:1313/p/now-live/</link>
+        <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>//localhost:1313/p/now-live/</guid>
+        <description>&lt;img src="//localhost:1313/2025/Deployment.png" alt="Featured image of post NOW LIVE!!!!" /&gt;&lt;p&gt; 
+ 
+&lt;strong&gt;The Website is officially deployed.&lt;/strong&gt; I have updated GitHub as of Jan 6 and the website should be no longer private. Now to pray that I don&amp;rsquo;t run into any issues while GitHub updates it.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

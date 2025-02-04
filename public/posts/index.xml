@@ -1,82 +1,253 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Ray&#39;s Personal Blog</title>
-        <link>//localhost:1313/posts/</link>
+        <link>http://localhost:1313/posts/</link>
         <description>Recent content in Posts on Ray&#39;s Personal Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate>
-        <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Mon, 03 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Website Changes?</title>
+        <link>http://localhost:1313/posts/02-03-2025/</link>
+        <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
         
-        <item>
-            <title>NOW LIVE!!!!</title>
-            <link>//localhost:1313/posts/01-06-2025-now-live/</link>
-            <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-            
-            <guid>//localhost:1313/posts/01-06-2025-now-live/</guid>
-            <description>&lt;p&gt;&lt;strong&gt;The Website is officially deployed.&lt;/strong&gt; I have updated GitHub as of Jan 6 and the website should be no longer private. Now to pray that I don&amp;rsquo;t run into any issues while GitHub updates it.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;//localhost:1313/2025/Deployment.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;</description>
-            <content type="html"><![CDATA[<p><strong>The Website is officially deployed.</strong> I have updated GitHub as of Jan 6 and the website should be no longer private. Now to pray that I don&rsquo;t run into any issues while GitHub updates it.</p>
-<p><img src="/2025/Deployment.png" alt=""></p>
-<hr>
-]]></content>
+        <guid>http://localhost:1313/posts/02-03-2025/</guid>
+        <description>&lt;p&gt;I&amp;rsquo;ve changed the web address of my website and for a few hours everything was down but it should be up now. rayspersonalblog.github.io is the new web address and I may be working on a new website design using &amp;ldquo;Stack&amp;rdquo; by Jimmy Cai&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/2025/Deployment2.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;hr&gt;
+</description>
         </item>
-        
         <item>
-            <title>Week 1 &amp; 2 - Song Of The Week</title>
-            <link>//localhost:1313/posts/01-05-2025-song-of-the-week/</link>
-            <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
-            
-            <guid>//localhost:1313/posts/01-05-2025-song-of-the-week/</guid>
-            <description>&lt;p&gt;Welcome to my first official post on my website. I thought over what exactly I wanted  my first post to be and decided I wanted to just post whatever music I&amp;rsquo;m listening to while editing my Website. I been playing a lot of Persona recently so these two songs are stuck in my head.&lt;/p&gt;
+        <title>LIFE / PROJECT UPDATE 1</title>
+        <link>http://localhost:1313/posts/02-01-2025/</link>
+        <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/02-01-2025/</guid>
+        <description>&lt;p&gt;&lt;strong&gt;Life is good so far. That&amp;rsquo;s it if you want the short answer. This Post is more in lines of a Project Update instead of a LIFE UPDATE so if you want to learn more about what I&amp;rsquo;m working on then feel free to continue reading&amp;hellip; (warning this is long)&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;quick-website-update&#34;&gt;Quick Website Update
+&lt;/h2&gt;&lt;p&gt;Before we get started with my new job I wanted to let you all know that I will be imposing a upload schedule to my website because there is so much I want to get done. First of all because of my new work schedule I will be updating the website mainly on Monday, Wednesday and Friday. So three post a week with Monday being a main update of what happened last week, Wednesday being smaller updates and  Friday being Song Of The Week. I may still update the website with anything interesting like a new release of a game I love, interesting tech or anything else interesting. In addition at the end of the month I will release a Collection Update showing all the new games, DVDs/Blu-rays, Books and other that I acquired during that month. Along with that a Progress Report / LIFE Update will happen every two week to give updates on projects and how life is going for me. This is definitely alot to keep up with but I&amp;rsquo;m pretty sure that after a month of doing this consistently I will eventually develop a habit &amp;amp; and it would just become second nature. Anyways I won&amp;rsquo;t waste any more of your time about my website, time to talk about my new job.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;strong&gt;Monday&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;Wednesday&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;Friday&lt;/strong&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Main Updates&lt;/td&gt;
+          &lt;td&gt;Anything Else&lt;/td&gt;
+          &lt;td&gt;Song Of The Week&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;life--job&#34;&gt;Life / Job
+&lt;/h2&gt;&lt;p&gt;I&amp;rsquo;ve just started working as a Data Center Technician as of three weeks ago and it&amp;rsquo;s been just an influx of information thrown at me via online training. The drive to said Data Center is definitely long with a estimate time of about 2 hours to the Center and 2 hours back. But when I actual get to work with my crewmates it is great. The people here are more engaging, more willing to talk, share information, help you out and overall just talk. It&amp;rsquo;s an interesting departure from any of the other jobs I&amp;rsquo;ve worked at. I&amp;rsquo;m currently a still a trainee and my training last about a year after which I get promoted and get paid more. But no matter what the experience is worth.&lt;/p&gt;
+&lt;h2 id=&#34;main-channel--momodora-review-update&#34;&gt;Main Channel &amp;amp; Momodora Review Update
+&lt;/h2&gt;&lt;p&gt;I still need to upload a video for my personal YouTube channel even if it&amp;rsquo;s something short. I originally thought I can just upload a random video and that would be it but in the end I ended up not posting anything not knowing what to post. I&amp;rsquo;m deciding between some bowling clips or just a random video of a cat on the roof of my car. Whatever i choose i will upload it before Monday so look out for that. Other than that I decided to make a gaming channel where I post gameplay, reviews &amp;amp; anything else gaming related. I wanted to separate my personal content and gaming content because I want my family members to be able to subscribe to my channel without worrying about having to comb through the sea of gaming or collecting videos to reach a actual video.&lt;/p&gt;
+&lt;p&gt;Speaking on my gaming channel I&amp;rsquo;m still working on my Momodora Series Review. I still trying to get use to using DaVinci Resolve along with finding new ways to express my thoughts. I haven&amp;rsquo;t had to write a essay or really express my feeling on paper/online since like High School. I&amp;rsquo;m trying to get back to writing so I can expand my vocabulary and to overall not regress in my ability to express myself. My hope is that using a median that I&amp;rsquo;m familiar with and love it makes it easier to write. So far progress is slow as I currently in the research phase, going through all the Momodora games and researching the development of each Momodora game is definitely time consuming. At the same time I been debating making one huge video review or splitting it up between 5 to 6 videos (one for each game). I&amp;rsquo;ll continue down the path of one video for now but I&amp;rsquo;ll communicate If I switch it from one to many, so stay in tune for that.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;other-projects--videos-planned&#34;&gt;Other Projects / Videos Planned
+&lt;/h2&gt;&lt;p&gt;Now that I&amp;rsquo;m done talking about Momodora Review I wanted to to bring up a some other project I have planned or is in the works. Just so you know not everything here is 100% going to become a Project that I&amp;rsquo;ll post publicly. Some of these projects could be mentioned here and just becomes a private project but i want to just get some stuff off my mind and onto paper (or online in this case).&lt;/p&gt;
+&lt;h3 id=&#34;1-starting-a-nas&#34;&gt;1. Starting A NAS
+&lt;/h3&gt;&lt;p&gt;A Network Attached Server (NAS) is a server hosted locally on your personal network that allow you to do all sort of incredible things like hosting your own Media Server, running a Minecraft Server, using HOMELAB (a software), or just as a Mass Media Drive. The main reason I want to create a NAS is to have a separate storage drive anyone can access and in order to run a Plex Server. Plex allows you to play video files hosted on your PC to anyone connect to the network / account. The Plex Server alone is worth it because using my PC&amp;rsquo;s Blu-ray player I can extract my DVD/Blu-ray content and have my own personal Netflix at home. For example If I have Breaking Bad on blu-ray I can rip it using my blu-ray player like I&amp;rsquo;m ripping a Music CD and sort the episodes so that I can add it to Plex and access the show without have to pay for a Subscription service [Plex is Free]. This is allows me to access the uncompressed Blu-ray rips for TV Shows &amp;amp; Movies rather than going through a streaming service that will compress and degrade the quality because It has to serve all these video to so may customer.&lt;/p&gt;
+&lt;p&gt;The main thing holding me back thou is easily the cost of everything. In order to host the huge amount of Data I demand I would need more than 36TB configured in RAID 2 (RAID 2 = 18TB of storage with another 18TB working as a fail-safe in case I lose data). This includes all my DVD/Blu-ray rips, raw  video &amp;amp; audio recordings (real life and game recordings), ripped Video Game Disc (PS3, GameCube, Wii &amp;amp; More) &amp;amp; Project Files.&lt;/p&gt;
+&lt;p&gt;Each DVD disc is 4.7 GB extracted, Blu-ray disks are anywhere from 20GB - 50 GB &amp;amp; 4K Blu-rays are 50GB-100GB. I will use a Handbrake in order to get rid of any padding &amp;amp; compress the file without any major quality loss. And even then these files can still be upwards of 10GB. So for this project I will be using Enterprise HDD (Hard Disk Drives) using &lt;a class=&#34;link&#34; href=&#34;https://serverpartdeals.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://serverpartdeals.com&lt;/a&gt;. I chose to use Server Part Deals because all the Drives are rated for use in Data Centers &amp;amp; will last longer than a regular off the shelf HDD. But as you can see the price in of itself is an investment The drives alone don&amp;rsquo;t account for the fact that I still need to build a separate PC with 10GB Networking and enough processing to run 4K content and anything else I throw at it.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ll stop here but I may make a separate post in order to get real in depth on how ripping Blu-rays work and encoding. Thanks for bearing with me though.&lt;/p&gt;
+&lt;h3 id=&#34;2-comptia-certs&#34;&gt;2. CompTIA Certs
+&lt;/h3&gt;&lt;p&gt;This one is a short one but I want to go ahead and get my other CompTIA certs. I already have my Security+ 601 (acquired in &lt;em&gt;&lt;strong&gt;Jan 2024&lt;/strong&gt;&lt;/em&gt;) but I wanted to go back and get my other certs since they are technically easier than the Security+. In order from easiest to hardest I will be getting my: &lt;strong&gt;Tech+, A+ (Part 1), A+ (Part 2), Networking&lt;/strong&gt;.
+&lt;a class=&#34;link&#34; href=&#34;https://www.comptia.org&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.comptia.org&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;3-collection-video&#34;&gt;3. Collection Video
+&lt;/h3&gt;&lt;p&gt;Not mention in my YouTube section is that I also have plans on doing a full Blu-ray collection showcase with context on why I bought certain show and movies. This is something I want to create for a while but I need a few things before this project becomes a reality. I already made a deal with my brother for his Sony camera but I would still need to learn how to use it and how to create stable shots and manage multiple video files. This is another reason I&amp;rsquo;m making my Momodora Review video, because it helps for getting ready to manage multiple clips especially since I can see my Collection Video being broke up easily into three or more multi-hour long videos.&lt;/p&gt;
+&lt;h3 id=&#34;4-love2d&#34;&gt;4. LOVE2D
+&lt;/h3&gt;&lt;p&gt;This project is something I&amp;rsquo;m doing mainly for fun &amp;amp; is just a private project but I wanted to mention it as it&amp;rsquo;s something I&amp;rsquo;ve used before but I wanted to create a small RPG Game just to put some of my ideas into a game.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://love2d.org&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://love2d.org&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;conclusion&#34;&gt;Conclusion
+&lt;/h1&gt;&lt;h3 id=&#34;this-took-way-too-long-to-make--i-will-try-to-keep-my-post-shorter-in-the-future&#34;&gt;This took way too long to make &amp;amp; I will try to keep my post shorter in the future.
+&lt;/h3&gt;</description>
+        </item>
+        <item>
+        <title>Week 4 - Song Of The Week</title>
+        <link>http://localhost:1313/posts/01-24-2025/</link>
+        <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/01-24-2025/</guid>
+        <description>&lt;p&gt;I officially started my new job and while working I been listening to a lot more podcast and listening to a lot more music. One of the website I&amp;rsquo;ve used more often is &lt;a class=&#34;link&#34; href=&#34;https://jetsetradiofuture.live/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://jetsetradiofuture.live/&lt;/a&gt; (&lt;a class=&#34;link&#34; href=&#34;https://github.com/RudiesGarage/jetsetradiofuture.live&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/RudiesGarage/jetsetradiofuture.live&lt;/a&gt; ). It&amp;rsquo;s a fan made website that plays music from the Jet Set Radio series, fan-made music inspired by Jet Set Radio &amp;amp; songs made by Hideki Naganuma (the guy behind the Jet Set Radio OST). So I wanted my Song Of The Week to be themed after Hideki Naganuma. So I decided to up it from 2 to 4 just for this week (or until I change the rules again).&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;the-concept-of-love---hideki-naganuma&#34;&gt;THE CONCEPT OF LOVE - Hideki Naganuma
+&lt;/h3&gt;&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/HNy_retSME0&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;get-enuf---dancing---hideki-naganuma&#34;&gt;GET ENUF - Dancing - Hideki Naganuma
+&lt;/h3&gt;&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/ODy6rmrh4Og&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;aint-nothin-like-a-funky-beat---hideki-naganuma&#34;&gt;AINT NOTHIN&amp;rsquo; LIKE A FUNKY BEAT - Hideki Naganuma
+&lt;/h3&gt;&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/PWHFr9KJGBk&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;funky-dealer---hideki-naganuma&#34;&gt;FUNKY DEALER - Hideki Naganuma
+&lt;/h3&gt;&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/CwE2k0HMDfo&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        </item>
+        <item>
+        <title>UPDATE Momodora Review</title>
+        <link>http://localhost:1313/posts/01-18-2025/</link>
+        <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/01-18-2025/</guid>
+        <description>&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/d7wYrI8MPNA&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&#34;it-has-begun&#34;&gt;It has begun
+&lt;/h1&gt;&lt;p&gt;For the past few days I been working on a script for a full on review of the Momodora Series but I wanted to make a post to give a little teaser for part one. Keep in mind everything shown here is a very rough draft and may change when I go back and touch up everything for my second revision. But along with drafting my script I&amp;rsquo;ve been playing each Momodora game so that their fresh in my mind and I&amp;rsquo;ve been learning how to use DaVinci Resolve since I wanted to move off Filmora.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Week 3 - Song Of The Week</title>
+        <link>http://localhost:1313/posts/01-16-2025/</link>
+        <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/01-16-2025/</guid>
+        <description>&lt;p&gt;&lt;strong&gt;Two more songs for Song Of The Week.&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;jazz-weve-got-buggin-out---a-tribe-called-quest&#34;&gt;Jazz (We&amp;rsquo;ve Got) Buggin&amp;rsquo; Out - A Tribe Called Quest
+&lt;/h3&gt;&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/cxN4nKk2cfk&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;dancing---black-party&#34;&gt;Dancing - bLAck pARty
+&lt;/h3&gt;&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/z99QDUfBJpY&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        </item>
+        <item>
+        <title>Reviews Games &amp; YouTube</title>
+        <link>http://localhost:1313/posts/01-12-2025/</link>
+        <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/01-12-2025/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;https://miro.medium.com/v2/resize:fit:3840/format:webp/1*x27CrKC1OBWsklRdtrriug.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The Original Momodora V Logo&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h1 id=&#34;reviews-and-youtube&#34;&gt;Reviews and Youtube
+&lt;/h1&gt;&lt;p&gt;For the past few days I been wondering what to put on my YouTube channel and I decided that I will upload whatever come to mind, rather that be a random vid from my Photo Gallery or an edited video of whatever topic. I got tons of video ideas that I personally would love to jump back into. Many of them being abandoned just because I think nobody cares, nobody would watch it or not having the talent in order to pull off such videos. But recently I decided to picked up one of my video ideas because it a review of a game series I personally been attached to since I was 10 years old, and has  had it&amp;rsquo;s latest entree as of 2024.&lt;/p&gt;
+&lt;p&gt;The series in question is the indie cult classic Momodora. The Momodora series is a indie game series that was created by rdein &lt;strong&gt;[real name &lt;em&gt;Guilherme Melo Martins&lt;/em&gt;]&lt;/strong&gt; in 2011 and currently has 6 games to it&amp;rsquo;s name, that being Momodora I, Momodora II, Momodora III, Momodora IV: Reverie Under The Moonlight, Minoria &amp;amp; Momodora V: Moonlit Farewell. This series was one of the first games I every downloaded on my old PC and was a game that got me interested in the indie game scene along with other games like Undertale, The Binding Of Issac &amp;amp; Spelunky. But I wanted to dig up my initial script for the entire Momodora Series and actual spend the time to make it to a full video. I will be reviewing each game separately on my blog and all as one in my Youtube video. With that being said my blog post reviewing each game will probably come out way before the actual video but I want to actually put the time in and make it a reality.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>NOW LIVE!!!!</title>
+        <link>http://localhost:1313/posts/01-06-2025/</link>
+        <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/01-06-2025/</guid>
+        <description>&lt;p&gt;&lt;strong&gt;The Website is officially deployed.&lt;/strong&gt; I have updated GitHub as of Jan 6 and the website should be no longer private. Now to pray that I don&amp;rsquo;t run into any issues while GitHub updates it.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/2025/Deployment.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        <item>
+        <title>Week 1 &amp; 2 - Song Of The Week</title>
+        <link>http://localhost:1313/posts/01-05-2025/</link>
+        <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/01-05-2025/</guid>
+        <description>&lt;p&gt;Welcome to my first official post on my website. I thought over what exactly I wanted  my first post to be and decided I wanted to just post whatever music I&amp;rsquo;m listening to while editing my Website. I been playing a lot of Persona recently so these two songs are stuck in my head.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;This is technically two song but whatever.&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;full-moon-full-life---azumi-takahashi--lotus-juice&#34;&gt;Full Moon Full Life - Azumi Takahashi &amp;amp; Lotus Juice&lt;/h3&gt;
+&lt;h3 id=&#34;full-moon-full-life---azumi-takahashi--lotus-juice&#34;&gt;Full Moon Full Life - Azumi Takahashi &amp;amp; Lotus Juice
+&lt;/h3&gt;&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/hWhgrA2dhrk&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
 
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/hWhgrA2dhrk?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+&lt;h3 id=&#34;its-going-down-now---azumi-takahashi--lotus-juice&#34;&gt;It&amp;rsquo;s Going Down Now - Azumi Takahashi &amp;amp; Lotus Juice
+&lt;/h3&gt;&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/2KuWjZD6PBA&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
 
-&lt;h3 id=&#34;its-going-down-now---azumi-takahashi--lotus-juice&#34;&gt;It&amp;rsquo;s Going Down Now - Azumi Takahashi &amp;amp; Lotus Juice&lt;/h3&gt;
-
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/2KuWjZD6PBA?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;</description>
-            <content type="html"><![CDATA[<p>Welcome to my first official post on my website. I thought over what exactly I wanted  my first post to be and decided I wanted to just post whatever music I&rsquo;m listening to while editing my Website. I been playing a lot of Persona recently so these two songs are stuck in my head.</p>
-<p><strong>This is technically two song but whatever.</strong></p>
-<hr>
-<h3 id="full-moon-full-life---azumi-takahashi--lotus-juice">Full Moon Full Life - Azumi Takahashi &amp; Lotus Juice</h3>
-
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/hWhgrA2dhrk?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
-    </div>
-
-<h3 id="its-going-down-now---azumi-takahashi--lotus-juice">It&rsquo;s Going Down Now - Azumi Takahashi &amp; Lotus Juice</h3>
-
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/2KuWjZD6PBA?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
-    </div>
-
-]]></content>
-        </item>
-        
-        <item>
-            <title>Hello World &amp; New Years</title>
-            <link>//localhost:1313/posts/01-01-2025-hello-world/</link>
-            <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
-            
-            <guid>//localhost:1313/posts/01-01-2025-hello-world/</guid>
-            <description>&lt;h2 id=&#34;hello-world-and-happy-new-years&#34;&gt;&amp;ldquo;Hello World&amp;rdquo; and Happy New Years.&lt;/h2&gt;
-&lt;p&gt;Welcome to my blog where I can post whatever I want and share it with my friends and family. I will be updating the blog weekly with whatever come to my mind so I hope you enjoy. In the mean time check out my photo gallery until I get my first post ready.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;//localhost:1313/2025/07292023.jpg&#34; alt=&#34;Me In Computer Class&#34;&gt;&lt;/p&gt;
-&lt;h4 id=&#34;im-the-middle-child-btw&#34;&gt;I&amp;rsquo;m the middle child. BTW&lt;/h4&gt;</description>
-            <content type="html"><![CDATA[<h2 id="hello-world-and-happy-new-years">&ldquo;Hello World&rdquo; and Happy New Years.</h2>
-<p>Welcome to my blog where I can post whatever I want and share it with my friends and family. I will be updating the blog weekly with whatever come to my mind so I hope you enjoy. In the mean time check out my photo gallery until I get my first post ready.</p>
-<p><img src="/2025/07292023.jpg" alt="Me In Computer Class"></p>
-<h4 id="im-the-middle-child-btw">I&rsquo;m the middle child. BTW</h4>
-]]></content>
+</description>
         </item>
         
     </channel>

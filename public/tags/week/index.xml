@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Week on Ray&#39;s Personal Blog</title>
+        <link>//localhost:1313/tags/week/</link>
+        <description>Recent content in Week on Ray&#39;s Personal Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Raymon Shields</copyright>
+        <lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/week/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Week 3 - Song Of The Week</title>
+        <link>//localhost:1313/p/week-3-song-of-the-week/</link>
+        <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>//localhost:1313/p/week-3-song-of-the-week/</guid>
+        <description>&lt;img src="https://www.okayafrica.com/media-library/image.jpg?id=10401860&amp;width=980" alt="Featured image of post Week 3 - Song Of The Week" /&gt;&lt;p&gt;&lt;strong&gt;Two more songs for Song Of The Week.&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;jazz-weve-got-buggin-out---a-tribe-called-quest&#34;&gt;Jazz (We&amp;rsquo;ve Got) Buggin&amp;rsquo; Out - A Tribe Called Quest
+&lt;/h3&gt;&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/cxN4nKk2cfk&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;dancing---black-party&#34;&gt;Dancing - bLAck pARty
+&lt;/h3&gt;&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/z99QDUfBJpY&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        </item>
+        
+    </channel>
+</rss>

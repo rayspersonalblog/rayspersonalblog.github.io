@@ -2,34 +2,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/about/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/tags/github/</loc>
-    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/01-06-2025-now-live/</loc>
-    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/page/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
-    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/post/</loc>
+    <lastmod>2025-02-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/</loc>
-    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/song-of-the-week/</loc>
-    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/p/website-changes/</loc>
+    <lastmod>2025-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/01-05-2025-song-of-the-week/</loc>
-    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/tags/life/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
-    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/p/life-/-project-update-1/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/01-01-2025-hello-world/</loc>
-    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/tags/project/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/project-updates/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/updates/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/</loc>
+    <lastmod>2025-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/song-of-the-week/</loc>
+    <lastmod>2025-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/p/week-4-song-of-the-week/</loc>
+    <lastmod>2025-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/games/</loc>
+    <lastmod>2025-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/momodora-series-review/</loc>
+    <lastmod>2025-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/p/update-momodora-review/</loc>
+    <lastmod>2025-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/youtube/</loc>
+    <lastmod>2025-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/music/</loc>
+    <lastmod>2025-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/p/week-3-song-of-the-week/</loc>
+    <lastmod>2025-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/reviews/</loc>
+    <lastmod>2025-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/p/reviews-games-youtube/</loc>
+    <lastmod>2025-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/p/now-live/</loc>
+    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/p/week-1-2-song-of-the-week/</loc>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/p/hello-world-new-years/</loc>
     <lastmod>2025-01-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/gallery/2024/collection-2024/</loc>
@@ -41,8 +89,11 @@
     <loc>//localhost:1313/gallery/2020/graduation-2020/</loc>
     <lastmod>2020-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/</loc>
+    <loc>//localhost:1313/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/series/</loc>
+    <loc>//localhost:1313/links/</loc>
+  </url><url>
+    <loc>//localhost:1313/search/</loc>
   </url>
 </urlset>
