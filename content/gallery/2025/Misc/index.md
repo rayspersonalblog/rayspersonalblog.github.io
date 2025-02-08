@@ -1,6 +1,6 @@
 +++
 title = "2025 Misc (Others)."
-date = "2025-12-31"
+date = "2025-01-01"
 aliases = ["gallery","photo-gallery","Gallery"]
 [ author ]
   name = "Ray"
