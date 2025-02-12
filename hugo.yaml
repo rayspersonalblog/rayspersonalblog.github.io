@@ -130,12 +130,6 @@ menu:
           params:
               icon: brand-github
 
-        - identifier: email
-          name: Email
-          url: raymonshields1@gmail.com
-          params:
-              icon:
-
 related:
     includeNewer: true
     threshold: 60
