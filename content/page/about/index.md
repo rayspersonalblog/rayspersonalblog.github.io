@@ -6,6 +6,7 @@ aliases:
   - about-us
   - about-hugo
   - contact
+lastmod: '2020-10-09'
 menu:
     main: 
         weight: -90
@@ -14,7 +15,34 @@ menu:
 ---
 
 
-My name is Raymon Shields and this is my personal blog.  
+My name is Raymon Shields and this is my personal blog. I write about whatever I want and try to stick to a Monday, Wednesday & Friday schedule.
 
   
 &nbsp; 
+
+
+
+
+
+&nbsp;
+
+
+
+
+&nbsp;
+
+  
+
+## Shout-Out
+
+### Hugo Theme : **Stack by Jimmy Cai**
+https://github.com/CaiJimmy/hugo-theme-stack
+
+###  Tabler [SVG Icons]
+https://tabler.io/icons
+https://github.com/tabler/tabler-icons
+https://github.com/tabler/tabler-flags
+
+### Pavex  (publicalbum.org) [Slideshow Gallery]
+
+https://www.publicalbum.org/blog/embedding-google-photos-albums
