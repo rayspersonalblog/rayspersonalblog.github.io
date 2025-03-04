@@ -40,9 +40,10 @@ permalinks:
 params:
     mainSections:
         - post
+        - Gallery
     featuredImageField: image
     rssFullContent: true
-    favicon: # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
+    favicon: /favicon.ico
 
     footer:
         since: 2025
@@ -120,7 +121,7 @@ menu:
       name: Gallery
       url: /gallery
       params:
-        icon: archives
+        icon: library-photo
             
 
     social:
@@ -129,7 +130,12 @@ menu:
           url: https://github.com/rayspersonalblog
           params:
               icon: brand-github
-
+         
+        - identifier: YouTube
+          name: YouTube
+          url: https://www.youtube.com/@RaysPersonalCorner
+          params:
+              icon: brand-youtube
 related:
     includeNewer: true
     threshold: 60
