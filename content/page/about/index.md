@@ -6,7 +6,6 @@ aliases:
   - about-us
   - about-hugo
   - contact
-lastmod: '2020-10-09'
 menu:
     main: 
         weight: -90
